@@ -18,10 +18,10 @@ This is a repository for the following setup:
   2. You can simply install node by downloading it from the [website](https://nodejs.org/en/download/) or using the 
      os's [package manager](https://nodejs.org/en/download/package-manager/).
           
-     If you're installing on windows there's the option of WSL but be warned, 
-     [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) crashes a lot when installing npm 
-     libraries. Other options would be using [cygwin](https://cygwin.com/install.html), or using virtual machines. You 
-     will have different optinos. Here are a few:
+     If you're installing on windows there's the option of 
+     [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) but be warned, WSL crashes a lot when 
+     installing npm libraries. Other options would be using [cygwin](https://cygwin.com/install.html), or using 
+     virtual machines. You will have different optinos. Here are a few:
      
      1. [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/quick-create-virtual-machine)
      2. [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
