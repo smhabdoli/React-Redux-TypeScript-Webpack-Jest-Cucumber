@@ -1,0 +1,19 @@
+{
+  "name": "reaction",
+  "version": "0.1.0",
+  "description": "React-Redux-TypeScript-Webpack-Jest-Cucumber",
+  "main": "index.ts",
+  "scripts": {
+    "test": "yarn test:unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/smhabdoli.com/React-Redux-TypeScript-Webpack-Jest-Cucumber.git"
+  },
+  "author": "SMH Abdoli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smhabdoli.com/React-Redux-TypeScript-Webpack-Jest-Cucumber/issues"
+  },
+  "homepage": "https://github.com/smhabdoli.com/React-Redux-TypeScript-Webpack-Jest-Cucumber#readme"
+}
